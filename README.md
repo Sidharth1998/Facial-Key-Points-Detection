@@ -4,3 +4,6 @@ In this project I have used the power of OpenCV, Convolutional Neural Networks t
 
 
 ### Example
+
+#### Sample Data
+![alt text](https://github.com/Sidharth1998/Facial-Key-Points-Detection/blob/master/images/sample_data.png?raw=true)
