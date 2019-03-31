@@ -5,7 +5,7 @@ In this project I have used the power of OpenCV, Convolutional Neural Networks t
 ### Example
 
 #### 1. Face and Eye Detection
-![alt text](https://github.com/Sidharth1998/Facial-Key-Points-Detection/blob/master/images/face_and%20_eye_detection.png?raw=true) = 100x20
+![alt text](https://github.com/Sidharth1998/Facial-Key-Points-Detection/blob/master/images/face_and%20_eye_detection.png?raw=true){:height="36px" width="36px"}.
 ---
 #### 2. Sample Data
 ![alt text](https://github.com/Sidharth1998/Facial-Key-Points-Detection/blob/master/images/sample_data.png?raw=true)
